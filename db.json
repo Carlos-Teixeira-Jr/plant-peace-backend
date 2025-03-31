@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "e2b3",
+      "name": "produto 3",
+      "subtitle": "teste",
+      "category": "terracy & balcony",
+      "price": 50,
+      "discountPercentage": 10,
+      "description": "testeteste teste",
+      "img": "https://cdn.shopify.com/s/files/1/0532/6720/2223/files/levi-s-men-s-541-stretch-mid-rise-relaxed-fit-tapered-leg-jeans-husker-17__60522.jpg?v=1715271115",
+      "highlighted": true
+    },
+    {
+      "id": "c3f6",
+      "name": "cactus flower",
+      "subtitle": "cactus",
+      "category": "office desk",
+      "price": 20,
+      "discountPercentage": 0,
+      "description": "a plant from inside ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyib40d97IUvTkrXTRLUS_-3lbPZ5aGAwvyw&sactus",
+      "highlighted": true
+    },
+    {
+      "id": "8cc8",
+      "name": "random",
+      "subtitle": "plant?",
+      "category": "indoor",
+      "price": 10,
+      "discountPercentage": 50,
+      "description": "asd",
+      "img": "https://i.pinimg.com/474x/7f/05/4d/7f054dffe20497b46ade96cfc7fd0433.jpg",
+      "highlighted": false
+    },
+    {
+      "id": "1032",
+      "name": "Teste de criação",
+      "subtitle": "Uma linda planta para o seu quintal.",
+      "category": "outdoor",
+      "price": 55,
+      "discountPercentage": 10,
+      "description": "Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun ",
+      "img": "https://images-americanas.b2w.io/produtos/4296063595/imagens/vaso-de-planta-para-sala-quintal-varanda-coluna-dubai-grande/4296063691_1_large.jpg",
+      "highlighted": true
+    },
+    {
+      "id": "b900",
+      "name": "Teste de criação",
+      "subtitle": "Uma linda planta",
+      "category": "indoor",
+      "price": 50,
+      "discountPercentage": 5,
+      "description": "Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun ",
+      "img": "https://s2.glbimg.com/aolshcRY2uBvI3SQzYfG2vWr350=/620x650/e.glbimg.com/og/ed/f/original/2020/12/11/costela-de-adao.jpg",
+      "highlighted": true
+    },
+    {
+      "id": "bde5",
+      "name": "Argireia nervosa",
+      "subtitle": "Uma planta peculiar",
+      "category": "outdoor",
+      "price": 100,
+      "discountPercentage": 8,
+      "description": "Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun Lorem ipsun ",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Elephant_creeper_%28Argyreia_nervosa%29_-_20100808.jpg/1200px-Elephant_creeper_%28Argyreia_nervosa%29_-_20100808.jpg",
+      "highlighted": true
+    },
+    {
+      "name": "Teste de cccccccc",
+      "subtitle": "tste1111",
+      "category": "terracy & balcony",
+      "price": 50,
+      "discountPercentage": 5,
+      "description": "Lorem",
+      "img": "https://images.freeimages.com/images/large-previews/07a/closeup-of-a-beautiful-plant-1192183.jpg",
+      "highlighted": false,
+      "id": "06e6"
+    },
+    {
+      "id": "8f80",
+      "name": "dioneia",
+      "subtitle": "planta carnivra",
+      "category": "indoor",
+      "price": 30,
+      "discountPercentage": 0,
+      "description": "come mosca quando quer, hiberna no inverno, natural de pantanos, gosta de solo \"ruim\"",
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpHUQYAQLvDOl4WiV-U4_5suXz63d3OhwHVnM56jxU5UxpT8WNXOSQkeY13J8hNATnv5pyfLL9jCCYQf5_VqFHqA",
+      "highlighted": true
+    }
+  ]
+}
